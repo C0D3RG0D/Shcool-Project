@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/firstfloor"
+    android:title="@string/floor1"
+    />
+    <item
+        android:id="@+id/secondfloor"
+        android:title="@string/floor2"
+        />
+    <item
+        android:id="@+id/thirdfloor"
+        android:title="@string/floor3"
+        />
+</menu>
